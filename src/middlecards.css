@@ -1,0 +1,28 @@
+.middlecard{
+    background-color: #FFD2A2;
+    width: 250px;
+    height: 130px;
+}
+
+
+.container-x{
+    box-shadow: 5px 4px 4px 2px #123252;
+    border-radius: 10px;
+    height: inherit;
+    width: inherit;
+}
+.sidewala{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    
+}
+.sidewala h3{
+    font-weight: 700;
+}
+.sidewala img{
+    padding: 3px;
+    width: 70px;
+    height: 70px;
+    
+}
